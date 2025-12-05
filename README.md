@@ -1,8 +1,3 @@
-create good redme file for this # K&Co. Cloud Spend Viewer
-A responsive FinOps dashboard for analyzing cloud spend data. Built with React, Recharts for visualizations, and PapaParse/jsPDF for exports. Features filtering, sorting, anomaly detection, and theme toggling.
-
-
-
 ## Tech Stack
 - **Frontend**: Html,CSS,Javascript
 - **Charts**: Recharts
